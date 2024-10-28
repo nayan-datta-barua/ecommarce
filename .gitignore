@@ -1,0 +1,9 @@
+lms/
+.idea/
+__pycache__/
+*.py[cod]
+*Spy.c;ass
+.vscode/
+.DS_Store
+.AppleDouble
+.LSOverride
